@@ -1,0 +1,13 @@
+/*Documento CSS*/
+
+.frutas{
+ font-size:40px;
+ font-family:arial ;
+ color:#FF0000;
+} 
+
+.carros{
+ font-family: italic;
+ color:#0000FF;
+ font-size:45px;
+}
